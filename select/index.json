@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ナイロンの糸",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-06T22:12:58.017055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナイロンの糸",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_ナイロンの糸_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナイロンの糸",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_ナイロンの糸_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nylon no Ito [ナイロンの糸]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Nylon_no_Ito_[ナイロンの糸]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ナイロンの糸",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_ナイロンの糸_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ナイロンの糸",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/05_ナイロンの糸_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイロンの糸",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_ナイロンの糸_サカナクション.txt"
+    }
+  ]
+}
